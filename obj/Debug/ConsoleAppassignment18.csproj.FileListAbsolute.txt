@@ -1,0 +1,8 @@
+D:\assignemt exercise\Assignment-18\ConsoleAppassignment18\ConsoleAppassignment18\bin\Debug\ConsoleAppassignment18.exe.config
+D:\assignemt exercise\Assignment-18\ConsoleAppassignment18\ConsoleAppassignment18\bin\Debug\ConsoleAppassignment18.exe
+D:\assignemt exercise\Assignment-18\ConsoleAppassignment18\ConsoleAppassignment18\bin\Debug\ConsoleAppassignment18.pdb
+D:\assignemt exercise\Assignment-18\ConsoleAppassignment18\ConsoleAppassignment18\obj\Debug\ConsoleAppassignment18.csproj.AssemblyReference.cache
+D:\assignemt exercise\Assignment-18\ConsoleAppassignment18\ConsoleAppassignment18\obj\Debug\ConsoleAppassignment18.csproj.SuggestedBindingRedirects.cache
+D:\assignemt exercise\Assignment-18\ConsoleAppassignment18\ConsoleAppassignment18\obj\Debug\ConsoleAppassignment18.csproj.CoreCompileInputs.cache
+D:\assignemt exercise\Assignment-18\ConsoleAppassignment18\ConsoleAppassignment18\obj\Debug\ConsoleAppassignment18.exe
+D:\assignemt exercise\Assignment-18\ConsoleAppassignment18\ConsoleAppassignment18\obj\Debug\ConsoleAppassignment18.pdb
